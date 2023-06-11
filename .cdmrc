@@ -1,0 +1,3 @@
+tabs: ["src/App.jsx", "src/index.jsx"]
+terminals: ["yarn install && yarn start --port 1337"]
+live-reload-browser: false
